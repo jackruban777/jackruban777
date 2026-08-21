@@ -49,7 +49,7 @@
 
 &nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS" />
+
 
 </p>
 
