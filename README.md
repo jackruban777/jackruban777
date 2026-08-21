@@ -519,33 +519,7 @@ Computer vision project focused on detecting objects in low-light environments.
 </table>
 
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS                                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF3CAC&text_color=FFFFFF&ring_color=6C3BFF" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=6C3BFF&fire=FF3CAC&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" width="70%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" />
-
-</p>
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
