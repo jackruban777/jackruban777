@@ -224,7 +224,7 @@ An AI-powered platform that generates personalized learning roadmaps based on th
 
 <br>
 
-<img src="https://img.shields.io/badge/Gemini-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
 
 </td>
 
@@ -246,10 +246,6 @@ Interactive 3D websites built using modern web technologies.
 
 <br>
 
-<img src="https://img.shields.io/badge/GSAP-00E5FF?style=flat-square&logo=greensock&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React_Three_Fiber-FF2E9F?style=flat-square&logo=react&logoColor=white"/>
-
 </td>
 
 <td width="33%" valign="top">
@@ -270,9 +266,6 @@ Computer vision project for detecting objects in low-light environments.
 
 <br>
 
-<img src="https://img.shields.io/badge/YOLO-8A2BE2?style=flat-square&logo=yolo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%2FML-00E5FF?style=flat-square&logo=tensorflow&logoColor=white"/>
 
 </td>
 
