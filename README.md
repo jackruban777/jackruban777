@@ -1,11 +1,12 @@
 <div align="center">
 
-[Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,50:00E5FF,100:FF2E9F&text=JACK%20RUBAN%20P&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Developer&descAlignY=58&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,50:00E5FF,100:FF2E9F&text=JACK%20RUBAN%20P&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <table width="100%">
 <tr>
+
 <td width="60%" valign="top">
 
 # ⚡ JACK RUBAN P
@@ -16,13 +17,21 @@
 
 <br>
 
-[GitHub](https://github.com/YOUR_USERNAME) ([image](https://img.shields.io/badge/GitHub-YOUR__USERNAME-8A2BE2?style=for-the-badge&logo=github&logoColor=white))
+<a href="https://github.com/jackruban777">
+<img src="https://img.shields.io/badge/GitHub-jackruban777-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[LinkedIn](YOUR_LINKEDIN_URL) ([image](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white))
+<a href="https://www.linkedin.com/in/jackruban777">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[Email](mailto:YOUR_EMAIL) ([image](https://img.shields.io/badge/Email-Contact-FF2E9F?style=for-the-badge&logo=gmail&logoColor=white))
+<a href="mailto:jackruban777@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-FF2E9F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[Profile Views](https://github.com/YOUR_USERNAME) ([image](https://img.shields.io/badge/dynamic/json?color=8A2BE2&style=for-the-badge&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYOUR_USERNAME%2Fprofile-readme))
+<a href="https://github.com/jackruban777">
+<img src="https://img.shields.io/badge/Profile%20Views-Visit%20Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -39,6 +48,7 @@
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -214,7 +224,7 @@ An AI-powered platform that generates personalized learning roadmaps based on th
 
 <br>
 
-![Gemini](https://img.shields.io/badge/Gemini-8A2BE2?style=flat-square\&logo=googlegemini\&logoColor=white)
+<img src="https://img.shields.io/badge/Gemini-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
 </td>
 
@@ -236,9 +246,9 @@ Interactive 3D websites built using modern web technologies.
 
 <br>
 
-![GSAP](https://img.shields.io/badge/GSAP-00E5FF?style=flat-square\&logo=greensock\&logoColor=white)
+<img src="https://img.shields.io/badge/GSAP-00E5FF?style=flat-square&logo=greensock&logoColor=white"/>
 
-![R3F](https://img.shields.io/badge/React_Three_Fiber-FF2E9F?style=flat-square\&logo=react\&logoColor=white)
+<img src="https://img.shields.io/badge/React_Three_Fiber-FF2E9F?style=flat-square&logo=react&logoColor=white"/>
 
 </td>
 
@@ -260,9 +270,9 @@ Computer vision project for detecting objects in low-light environments.
 
 <br>
 
-![YOLO](https://img.shields.io/badge/YOLO-8A2BE2?style=flat-square\&logo=yolo\&logoColor=white)
+<img src="https://img.shields.io/badge/YOLO-8A2BE2?style=flat-square&logo=yolo&logoColor=white"/>
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-00E5FF?style=flat-square\&logo=tensorflow\&logoColor=white)
+<img src="https://img.shields.io/badge/AI%2FML-00E5FF?style=flat-square&logo=tensorflow&logoColor=white"/>
 
 </td>
 
@@ -402,9 +412,11 @@ DevOps
 
 Connect with me
 
-[LinkedIn](www.linkedin.com/in/jackruban777)
+<br>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)
+<a href="https://www.linkedin.com/in/jackruban777">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </td>
 
@@ -414,9 +426,11 @@ Connect with me
 
 Explore my projects
 
-[GitHub](https://github.com/jackruban777)
+<br>
 
-![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<a href="https://github.com/jackruban777">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -426,9 +440,11 @@ Explore my projects
 
 Let's build something
 
-[Gmail](jackruban777@gmail.com)
+<br>
 
-![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)
+<a href="mailto:jackruban777@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </td>
 
@@ -445,6 +461,8 @@ Let's build something
 
 ⭐ **If you like my work, consider starring one of my repositories.**
 
-[Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF2E9F,50:00E5FF,100:8A2BE2&section=footer)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF2E9F,50:00E5FF,100:8A2BE2&section=footer" width="100%"/>
 
 </div>
