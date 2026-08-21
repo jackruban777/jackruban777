@@ -1,346 +1,668 @@
-<div align="center">
+<!--
+  JACK RUBAN P — GitHub Profile README
+  Replace only:
+  YOUR_USERNAME
+  YOUR_LINKEDIN_URL
+  YOUR_EMAIL
+  YOUR_REPO_URL_1
+  YOUR_REPO_URL_2
+  YOUR_REPO_URL_3
+-->
 
-# ⚡ JACK RUBAN
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PREMIUM HERO                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `AI-Assisted Developer` • `Full-Stack Developer` • `Cloud & AI Enthusiast`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C3BFF,50:00D9FF,100:FF3CAC&text=JACK%20RUBAN%20P&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI-ASSISTED%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%F0%9F%A4%96;Creating+Modern+Web+Experiences+%F0%9F%8C%8C;Learning+Java+%26+Data+Structures+%F0%9F%A7%A0;Turning+Ideas+into+Real+Applications+%F0%9F%9A%80" />
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
+# JACK RUBAN P
+
+### `AI-ASSISTED FULL-STACK DEVELOPER`
+
+> **Building intelligent applications • Exploring AI • Creating immersive web experiences**
 
 <br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FF3CAC?style=for-the-badge&logo=gmail&logoColor=ffffff" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧬 `whoami`
-
-```javascript
-const jack = {
-    role: "AI-Assisted Full-Stack Developer",
-    location: "India 🇮🇳",
-
-    currentlyBuilding: [
-        "AI-powered applications",
-        "Modern React applications",
-        "Interactive 3D websites",
-        "Cloud-connected applications"
-    ],
-
-    currentlyLearning: [
-        "Advanced Java",
-        "Data Structures & Algorithms",
-        "Generative AI",
-        "Three.js",
-        "Cloud Architecture"
-    ],
-
-    philosophy:
-        "Build → Break → Debug → Improve → Repeat 🚀"
-};
-```
-
----
-
-# ⚡ TECHNOLOGY UNIVERSE
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=github,git,vercel,docker" />
-
-### Development Environment
-
-<img src="https://skillicons.dev/icons?i=vscode,idea" />
-
-</div>
-
----
-
-# 🤖 AI DEVELOPMENT STACK
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="180">
-
-### 🚀
-
-**Google Antigravity**
-
-AI-assisted development
+`AI` · `FULL-STACK` · `JAVA` · `PYTHON` · `3D WEB` · `CLOUD`
 
 </td>
 
-<td align="center" width="180">
+<td width="38%" align="center" valign="middle">
 
-### ✨
+<img src="https://skillicons.dev/icons?i=java,python,js,react,threejs,nodejs,tailwind,supabase,docker&perline=3" />
 
-**Google AI Studio**
+<br><br>
 
-Gemini application development
-
-</td>
-
-<td align="center" width="180">
-
-### 🧠
-
-**Gemini**
-
-Generative AI & AI features
-
-</td>
-
-<td align="center" width="180">
-
-### 🎨
-
-**Stitch**
-
-AI-powered UI exploration
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=340&lines=Building+with+AI;Creating+with+Code;Designing+Immersive+Web;Learning+Every+Day" />
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
-> I use AI as a **development accelerator** — from ideation and UI generation to debugging, application architecture and experimentation.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C3BFF,50:00D9FF,100:FF3CAC&section=header" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# 👋 ABOUT ME
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
+### Hello, I'm Jack
+
+I'm an **AI-assisted full-stack developer** passionate about turning ideas into modern, intelligent and visually engaging digital experiences.
+
+I enjoy building products where **engineering, artificial intelligence and modern UI/UX** come together.
+
+### What I Build
+
+- 🤖 AI-powered applications
+- 🌐 Full-stack applications
+- 🎨 Modern UI/UX experiences
+- 🧊 Interactive 3D websites
+- ☁️ Cloud applications
+- 🛠️ Developer tools
+
+<br>
+
+> **My goal:** build technology that is useful, intelligent and genuinely enjoyable to interact with.
+
+</td>
+
+<td width="42%" valign="top">
+
+### ⚡ DEVELOPER WORKFLOW
+
+<table width="100%">
+<tr><td align="center">💡 <b>IDEA</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center">🎨 <b>DESIGN</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center">💻 <b>CODE</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center">🤖 <b>AI</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center">🚀 <b>DEPLOY</b></td></tr>
+<tr><td align="center">↓</td></tr>
+<tr><td align="center">🔁 <b>IMPROVE</b></td></tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚙️ TECH STACK
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=00D9FF" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,threejs,tailwind" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgresql" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-6C3BFF?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/API-111111?style=flat-square&logo=fastapi&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Deployment-111111?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧰 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Creative Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=threejs,react,tailwind" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI & DEVELOPMENT TOOLS
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Google Antigravity
+
+**AI-assisted application development**
+
+`Architecture` · `Coding` · `Debugging` · `Rapid Prototyping`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Google AI Studio
+
+**Generative AI development using Gemini**
+
+`Gemini API` · `AI Applications` · `Prompt Engineering`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ✨ Gemini
+
+**AI development companion**
+
+`Coding` · `Debugging` · `Learning` · `Generative AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Stitch
+
+**AI-powered UI/UX exploration**
+
+`UI Design` · `UX` · `Prototyping` · `Design Systems`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-## 🌊 LearnFlow
+<table width="100%">
+<tr>
 
-### `AI-Powered Adaptive Learning Platform`
+<td width="33%" valign="top">
 
-An intelligent learning platform designed to generate personalized learning experiences based on a learner's chosen technical skill.
+## 📚 LearnFlow
 
-**Core Features**
+### AI-Powered Adaptive Learning Platform
 
-* 🧠 AI-generated learning roadmaps
-* 🧩 Micro-concept learning
-* 📝 Adaptive quizzes
-* 📊 Skill progression
-* 🔐 Authentication
-* ☁️ Cloud database
-* 🎨 Liquid Glass UI
-* 🤖 Gemini-powered intelligence
+An AI-powered platform that generates personalized learning roadmaps based on the learner's selected technical skill.
 
-**Stack**
+**Features**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase,tailwind" />
+- AI-generated roadmaps
+- Micro-concept learning
+- Adaptive quizzes
+- Progress tracking
+- Authentication
+- Supabase database
+- Modern UI
 
----
+**Built With**
+
+`React` `Node.js` `Express`  
+`Supabase` `Gemini` `Tailwind`
+
+<br>
+
+<a href="YOUR_REPO_URL_1">
+<img src="https://img.shields.io/badge/View%20Project%20→-6C3BFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
 
 ## 🌌 3D Web Experiences
 
-### `Immersive Interactive Web Interfaces`
+### Immersive Interactive Websites
 
-Experimenting with modern 3D websites, cinematic transitions and interactive interfaces.
+Interactive 3D websites built using modern web technologies and motion-focused interfaces.
 
-**Stack**
+**Features**
 
-<img src="https://skillicons.dev/icons?i=react,threejs,tailwind,vite" />
+- 3D scenes
+- Smooth transitions
+- GSAP animations
+- Interactive elements
+- Glassmorphism UI
 
-**Animation**
+**Built With**
 
-`GSAP` • `React Three Fiber` • `Three.js`
+`React` `Three.js`  
+`React Three Fiber` `GSAP`  
+`Tailwind CSS`
 
----
+<br>
+
+<a href="YOUR_REPO_URL_2">
+<img src="https://img.shields.io/badge/View%20Project%20→-00A8CC?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
 
 ## 🌙 Night Vision AI
 
-### `AI-Based Low-Light Object Detection`
+### Computer Vision Project
 
-Computer vision project exploring real-time object detection in challenging low-light environments.
+Computer vision project focused on detecting objects in low-light environments.
 
-**Stack**
+**Features**
 
-<img src="https://skillicons.dev/icons?i=python" />
+- Object detection
+- Low-light vision
+- Fast inference
+- Camera processing
+- AI detection
 
-`YOLO` • `Computer Vision` • `AI/ML`
+**Built With**
+
+`Python` `YOLO`  
+`OpenCV` `AI / ML`
+
+<br>
+
+<a href="YOUR_REPO_URL_3">
+<img src="https://img.shields.io/badge/View%20Project%20→-FF3CAC?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🧠 CURRENTLY EXPLORING
+# 🧠 CURRENTLY LEARNING
 
-<div align="center">
+<table width="100%">
+<tr>
 
-| Area        | Focus                                 |
-| ----------- | ------------------------------------- |
-| ☕ Java      | Advanced Java + DSA                   |
-| ⚛️ React    | Modern component architecture         |
-| 🤖 AI       | Generative AI applications            |
-| 🌐 Web      | 3D & interactive experiences          |
-| ☁️ Cloud    | Deployment & architecture             |
-| 🗄️ Backend | APIs & databases                      |
-| 🧠 ML       | Computer vision & intelligent systems |
+<td width="25%" valign="top">
 
-</div>
+### ☕ Java
+
+- DSA
+- OOP
+- Algorithms
+- Problem Solving
+- Advanced Java
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🤖 AI
+
+- Generative AI
+- Gemini
+- AI Applications
+- Prompt Engineering
+- Computer Vision
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🌐 Web
+
+- React
+- Three.js
+- React Three Fiber
+- GSAP
+- Modern UI/UX
+
+</td>
+
+<td width="25%" valign="top">
+
+### ☁️ Cloud
+
+- APIs
+- Deployment
+- Databases
+- Cloud Architecture
+- DevOps
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📊 GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF3CAC&text_color=FFFFFF&ring_color=6C3BFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=6C3BFF&fire=FF3CAC&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" width="70%" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" />
+</p>
 
 ---
 
-# 🐍 CONTRIBUTION GRAPH
+# 💡 MY DEVELOPMENT MINDSET
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<td align="center" width="20%">
 
-</div>
+### 💡
+**IDEATE**
+
+Ideas become possibilities.
+
+</td>
+
+<td align="center" width="5%">
+
+### →
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎨
+**DESIGN**
+
+Shape the experience.
+
+</td>
+
+<td align="center" width="5%">
+
+### →
+
+</td>
+
+<td align="center" width="20%">
+
+### 💻
+**BUILD**
+
+Turn concepts into code.
+
+</td>
+
+<td align="center" width="5%">
+
+### →
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧪
+**TEST**
+
+Break. Learn. Improve.
+
+</td>
+
+<td align="center" width="5%">
+
+### →
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+**DEPLOY**
+
+Ship something real.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🏗️ MY DEVELOPMENT WORKFLOW
+# ❤️ WHAT I LOVE BUILDING
 
-<div align="center">
+<table width="100%">
+<tr>
 
-```text
-                 💡 IDEA
-                   │
-                   ▼
-            🧠 AI EXPLORATION
-                   │
-                   ▼
-             🎨 UI / UX
-                   │
-                   ▼
-          ⚛️ FRONTEND DEVELOPMENT
-                   │
-                   ▼
-            ⚙️ BACKEND / API
-                   │
-                   ▼
-             🗄️ DATABASE
-                   │
-                   ▼
-             ☁️ DEPLOYMENT
-                   │
-                   ▼
-             🚀 REAL PRODUCT
-```
+<td width="25%" align="center" valign="top">
 
-</div>
+## 🤖
 
----
+### AI APPLICATIONS
 
-# 🧰 TOOLS I WORK WITH
+Intelligent products powered by modern AI and generative models.
 
-<div align="center">
+</td>
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode,vercel,supabase,figma,postman,npm" />
+<td width="25%" align="center" valign="top">
 
-<br><br>
+## 🌐
 
-`Git` • `GitHub` • `VS Code` • `Postman` • `Figma` • `npm` • `Vercel` • `Supabase`
+### FULL-STACK APPS
 
-</div>
+Complete products from intuitive interfaces to scalable backends.
 
----
+</td>
 
-# 🎯 2026 MISSION
+<td width="25%" align="center" valign="top">
 
-```text
-[████████████████░░░░] 80%  → Become a stronger Software Developer
+## 🎨
 
-[██████████████░░░░░░] 70%  → Master Java + DSA
+### INTERACTIVE UI
 
-[███████████████░░░░░] 75%  → Build production-ready AI applications
+Modern interfaces with motion, depth and thoughtful interactions.
 
-[███████████░░░░░░░░░] 55%  → Master 3D Web Development
+</td>
 
-[██████████░░░░░░░░░░] 50%  → Explore Cloud Architecture
-```
+<td width="25%" align="center" valign="top">
+
+## ☁️
+
+### CLOUD SYSTEMS
+
+Connected applications, APIs, databases and deployment workflows.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🌐 LET'S CONNECT
 
-<div align="center">
+<table width="100%">
+<tr>
 
-### 💬 Have an interesting idea?
+<td width="33%" align="center" valign="top">
 
-### 🤝 Want to collaborate?
+### 💼 LinkedIn
 
-### 🚀 Building something with AI?
+Connect with me and follow my journey.
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 💻 GitHub
+
+Explore my projects, experiments and code.
+
+<br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 📧 Email
+
+Let's build something together.
+
+<br>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Contact-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⚡ BUILD. LEARN. INNOVATE.
+### `BUILD • LEARN • CREATE • REPEAT`
 
-**"The best way to predict the future is to build it."**
+**Thanks for visiting my profile!**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+⭐ **If you like my work, consider starring one of my repositories.**
 
-</div>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C3BFF,50:00D9FF,100:FF3CAC" width="100%" />
+</p>
