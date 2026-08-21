@@ -89,77 +89,16 @@ I enjoy working across different areas of software development, from designing i
 
 > **My approach:** Learn continuously, build consistently and turn ideas into working software.
 
----
-
-# ⚡ DEVELOPER WORKFLOW
-
-<p align="left">
-
-`💡 IDEA`
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-`🎨 DESIGN`
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-`💻 CODE`
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-`🧪 TEST`
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-`🚀 DEPLOY`
-
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-`🔁 IMPROVE`
-
-</p>
-
-<br>
-
-**IDEA**  
-Explore the problem and define the direction.
-
-↓  
-
-**DESIGN**  
-Plan the architecture and user experience.
-
-↓  
-
-**CODE**  
-Build the application with clean and maintainable code.
-
-↓  
-
-**TEST**  
-Find issues, improve reliability and validate the result.
-
-↓  
-
-**DEPLOY**  
-Turn the project into a usable product.
-
-↓  
-
-**IMPROVE**  
-Learn from the result and continuously iterate.
-
----
 
 # ⚙️ TECH STACK
 
 ### 💻 Languages
 
-<p align="left">
+<p align="cener">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=00D9FF" />
 </p>
 
@@ -167,11 +106,11 @@ Learn from the result and continuously iterate.
 
 ### 🌐 Frontend Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,threejs,tailwind" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -186,7 +125,7 @@ Learn from the result and continuously iterate.
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=00D9FF" />
   <img src="https://img.shields.io/badge/Backend%20Development-111111?style=for-the-badge&logo=nodedotjs&logoColor=68A063" />
 </p>
@@ -195,11 +134,11 @@ Learn from the result and continuously iterate.
 
 ### 🗄️ Database
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,postgresql" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Database%20Design-111111?style=for-the-badge&logo=postgresql&logoColor=00D9FF" />
   <img src="https://img.shields.io/badge/API%20Integration-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 </p>
@@ -208,11 +147,11 @@ Learn from the result and continuously iterate.
 
 ### 🤖 AI & Machine Learning
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-6C3BFF?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Applications-FF3CAC?style=for-the-badge&logo=google&logoColor=white" />
@@ -222,11 +161,11 @@ Learn from the result and continuously iterate.
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/APIs-111111?style=for-the-badge&logo=fastapi&logoColor=00D9FF" />
   <img src="https://img.shields.io/badge/Deployment-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-111111?style=for-the-badge&logo=icloud&logoColor=00D9FF" />
@@ -236,7 +175,7 @@ Learn from the result and continuously iterate.
 
 ### 🧰 Development Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
 </p>
 
@@ -244,11 +183,11 @@ Learn from the result and continuously iterate.
 
 ### 🎮 Creative Web Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=threejs,react,tailwind" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" />
   <img src="https://img.shields.io/badge/3D%20Web-6C3BFF?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Interactive%20UI-FF3CAC?style=for-the-badge&logo=framer&logoColor=white" />
